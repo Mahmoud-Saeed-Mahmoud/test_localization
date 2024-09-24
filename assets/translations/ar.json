@@ -1,0 +1,16 @@
+{
+  "app_name": "test_localization",
+  "hello_world": "مرحبا بالعالم!",
+  "language": "إنجليزي",
+  "change_language": "تغيير اللغة",
+  "change_theme": "تغيير الموضوع",
+  "dark": "مظلم",
+  "light": "ضوء",
+  "system": "نظام",
+  "home_title": "بيت",
+  "settings_title": "إعدادات",
+  "about_title": "عن",
+  "about_text": "يتم إنشاء هذا التطبيق مع رفرفة.",
+  "go_to_second_page": "انتقل إلى الصفحة الثانية",
+  "second_page_title": "الصفحة الثانية"
+}

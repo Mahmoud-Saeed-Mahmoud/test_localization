@@ -1,0 +1,16 @@
+{
+    "app_name": "test_localization",
+    "hello_world": "Hello, world!",
+    "language": "English",
+    "change_language": "Change language",
+    "change_theme": "Change theme",
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System",
+    "home_title": "Home",
+    "settings_title": "Settings",
+    "about_title": "About",
+    "about_text": "This app is created with Flutter.",
+    "go_to_second_page": "Go to second page",
+    "second_page_title": "Second page"
+}
